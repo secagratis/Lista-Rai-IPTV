@@ -1,31 +1,31 @@
 #EXTM3U
-TITOLO: Rai 1 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803" 
-TITOLO: Rai 2 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718" 
-TITOLO: Rai 3 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709" 
-TITOLO: Rai 4 
-LINK:  "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966" 
-TITOLO: Rai 5 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276" 
-TITOLO: Rai Movie 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002" 
-TITOLO: Rai Premium 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992" 
-TITOLO: Rai Storia 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990" 
-TITOLO: Rai Yoyo 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899" 
-TITOLO: Rai Gulp 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953" 
-TITOLO: Rai News 24 
-LINK:  "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1" 
-TITOLO: Rai Sport piu HD 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025" 
-TITOLO: Rai Sport 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071" 
-TITOLO: Rai Scuola 
-LINK:  "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011" 
-TITOLO: Rai Radio 2 
-LINK:  "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080" 
+#EXTINF:-1, Rai 1 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803 
+#EXTINF:-1, Rai 2 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718 
+#EXTINF:-1, Rai 3 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709 
+#EXTINF:-1, Rai 4 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966 
+#EXTINF:-1, Rai 5 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276 
+#EXTINF:-1, Rai Movie 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002 
+#EXTINF:-1, Rai Premium 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992 
+#EXTINF:-1, Rai Storia 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990 
+#EXTINF:-1, Rai Yoyo 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899 
+#EXTINF:-1, Rai Gulp 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953 
+#EXTINF:-1, Rai News 24 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1 
+#EXTINF:-1, Rai Sport piu HD 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025 
+#EXTINF:-1, Rai Sport 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358071 
+#EXTINF:-1, Rai Scuola 
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011 
+#EXTINF:-1, Rai Radio 2 
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080 
