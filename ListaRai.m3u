@@ -285,7 +285,7 @@ https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-id="Pluto TV"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/plutotv.png"tvg-chno="807"group-title="Altro":http-user-agent="",Pluto Film TV
 https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
-#EXTINF:-1 tvg-id="Rai1.it"tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/rai1.png"tvg-chno="1"group-title="film":http-user-agent="HbbTV/1.6.1",A Agonia
+#EXTINF:-1 tvg-id="Rai1.it"tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.rgstatic.com%2Fcontent%2Fmovie%2Fe4ccbcbd-3dd6-40cc-8ea9-b9190e966cfd%2Fposter-342.jpg&f=1&nofb=1&ipt=56c6822d12be740ef2fd4f16cc3158e1d24821c67c55b1156b0420379723d335"tvg-chno="1"group-title="film Drammatici":http-user-agent="HbbTV/1.6.1",A Agonia
 
 https://mediapolisvod.rai.it/relinker/relinkerServlet.htm?cont=7mw697YmHWmmizhmssSlashkhRageeqqEEqualeeqqEEqual
 #EXTINF:-1,"A caccia del vedovo d'oro"
