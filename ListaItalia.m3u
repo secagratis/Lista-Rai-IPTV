@@ -1,20 +1,18 @@
 #EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
-
+#EXTINF:-1 tvg-id="Rai1.it"tvg-logo=""tvg-chno="1"group-title="RAI":http-user-agent="HbbTV/1.6.1",RAI
 #EXTINF:-1 tvg-chno="1" tvg-id="Rai.1.HD..101.it" tvg-name="Rai 1 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/1-rai1hd.png", Rai 1 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="2" tvg-id="Rai.2.HD..102.it" tvg-name="Rai 2 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/2-rai2hd.png", Rai 2 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="3" tvg-id="Rai.3.HD..103.it" tvg-name="Rai 3 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/3-rai3hd.png", Rai 3 HD
 #EXTSIZE: Medium
+#EXTINF:-1 tvg-id="Rai1.it"tvg-logo=""tvg-chno="1"group-title="MEDIASET":http-user-agent="HbbTV/1.6.1",MEDISET
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
-
 #EXTINF:-1 tvg-chno="4" tvg-id="Rete.4.it" tvg-name="Rete 4 HD" tvg-logo="https://raw.githubusercontent.com/xN1ckuz/OpenIPTVItaly/refs/heads/main/Logos/4-rete4hd.png", Rete 4 HD
 #EXTSIZE: Medium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
