@@ -1,321 +1,481 @@
 #EXTM3U
-#EXTINF:-1 group-title="Rai",Rai 1
+
+#EXTINF:-1 tvg-id="Rai 1" tvg-name="Rai 1" group-title="Rai",Rai 1
 https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
-#EXTINF:-1 group-title="Rai",Rai 2
+
+#EXTINF:-1 tvg-id="Rai 2" tvg-name="Rai 2" group-title="Rai",Rai 2
 https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
-#EXTINF:-1 group-title="Rai",Rai 3
+
+#EXTINF:-1 tvg-id="Rai 3" tvg-name="Rai 3" group-title="Rai",Rai 3
 https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
+
 #EXTINF:-1 group-title="MDS",Rete 4
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="MDS",Canale 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="MDS",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+
 #EXTINF:0 group-title="Sky IT",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
 #EXTINF:-1 group-title="WBD IT",NOVE
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+
 #EXTINF:0 group-title="CH",RSI La1
 http://102.129.186.182:81/rsi1/index.m3u8
+
 #EXTINF:0 group-title="CH",RSI La2
 http://102.129.186.182:81/rsi2/index.m3u8
+
 #EXTINF:-1 group-title="CH",RTS 1
 http://176.65.153.57:5002/play/a06k/index.m3u8
+
 #EXTINF:-1 group-title="CH",RTS 2
 http://176.65.153.57:5002/play/a06l/index.m3u8
+
 #EXTINF:-1 group-title="CH",SRF 1
 http://176.65.153.57:5002/play/a06i/index.m3u8
+
 #EXTINF:-1 group-title="CH",SRF 2
 http://176.65.153.57:5002/play/a06j/index.m3u8
+
 #EXTINF:-1 group-title="CH",SRF INFO
 http://176.65.153.57:5002/play/a06n/index.m3u8
+
 #EXTINF:-1 group-title="CH",Teleticino
 https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+
 #EXTINF:-1 group-title="Sky IT",Comedy Central
 http://102.129.186.182:81/comedy/index.m3u8
+
 #EXTINF:-1 group-title="MDS",20 Mediaset
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="Rai",Rai 4
 https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+
 #EXTINF:-1 group-title="MDS",Iris
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="Rai",Rai 5
 https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai Movie
 https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Sky IT",Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
 #EXTINF:-1 group-title="MDS",27 Twentyseven
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="MDS",La 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="WBD IT",Real Time
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+
 #EXTINF:-1 group-title="WBD IT",Food Network
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+
 #EXTINF:-1 group-title="MDS",Cine34
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="MDS",FOCUS
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="WBD IT",Discovery
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+
 #EXTINF:-1 group-title="WBD IT",Giallo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+
 #EXTINF:-1 group-title="MDS",Top Crime
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="MDS",Boing
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+
 #EXTINF:0 group-title="WBD IT",K2
 http://nocable.cc:8080/88064703/88064703/266397
+
 #EXTINF:-1 group-title="Rai",Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Rai",Rai yoyo
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:0 group-title="WBD IT",frisbee
 http://nocable.cc:8080/88064703/88064703/266393
+
 #EXTINF:-1 group-title="MDS",Cartoonito
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="Rai",Rai News 24
 https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
+
 #EXTINF:-1 group-title="MDS",Mediaset Italia Due
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="Sky IT",Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
 #EXTINF:-1 group-title="MDS",TGCOM 24
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="WBD IT",DMAX
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai Storia
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="MDS",Mediaset Extra
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="WBD IT",HGTV Home&Garden
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+
 #EXTINF:-1 group-title="Rai",Italiana
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Rai",Rai Sport
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="WBD IT",Turbo
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+
 #EXTINF:-1 group-title="MDS",Radio 105 TV
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="MDS",R101 TV
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
 https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+
 #EXTINF:-1 group-title="MDS",Radio Montecarlo TV
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+
 #EXTINF:-1 group-title="MDS",Virgin Radio TV
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+
 #EXTINF:0 group-title="MDS",GF Regia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+
 #EXTINF:0 group-title="MDS",GF Regia 2
 https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+
 #EXTINF:0 group-title="MDS",GF Un'ora fa
 https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+
 #EXTINF:-1 group-title="Rai",Rai 4K
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+
 #EXTINF:0 group-title="IT",Rai 1
 http://102.129.186.182:81/rai1/index.m3u8
+
 #EXTINF:0 group-title="IT",Rai 2
 http://102.129.186.182:81/rai2/index.m3u8
+
 #EXTINF:0 group-title="IT",Rai 3
 http://102.129.186.182:81/rai3/index.m3u8
+
 #EXTINF:0 group-title="IT",Rete 4
 http://185.227.34.62/stream/14/index.m3u8
+
 #EXTINF:0 group-title="IT",Canale 5
 http://185.227.34.62/stream/18/index.m3u8
+
 #EXTINF:0 group-title="IT",Italia 1
 http://185.227.34.62/stream/21/index.m3u8
+
 #EXTINF:0 group-title="IT",LA7 HD
 http://102.129.186.182:81/la7/index.m3u8
+
 #EXTINF:0 group-title="IT",TV8 HD
 http://102.129.186.182:81/tv8/index.m3u8
+
 #EXTINF:-1 group-title="IT",NOVE HD
 http://nocable.cc:8080/88064703/88064703/266406
+
 #EXTINF:0 group-title="IT",LA7Cinema HD
 http://102.129.186.182:81/la7d/index.m3u8
+
 #EXTINF:0 group-title="CH",RSI LA 1
 http://176.65.153.57:5002/play/a06o/index.m3u8
+
 #EXTINF:0 group-title="CH",RSI LA 2
 http://176.65.153.57:5002/play/a06p/index.m3u8
+
 #EXTINF:0 group-title="IT",Nickelodeon
 http://185.227.34.104/stream/118/index.m3u8
+
 #EXTINF:0 group-title="IT",Nick JR
 http://185.227.34.104/stream/115/index.m3u8
+
 #EXTINF:0 group-title="IT",Cartoon Network
 http://185.227.34.104/stream/123/index.m3u8
+
 #EXTINF:0 group-title="IT",DeA Kids
 http://185.227.34.104/stream/113/index.m3u8
+
 #EXTINF:0 group-title="IT",WeDo Movies
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
+
 #EXTINF:0 group-title="Sky IT",Sport Web
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
 #EXTINF:0 group-title="test",Rete A
 https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+
 #EXTINF:0 group-title="test",Peer TV IT
 https://iptv.peer.biz/live/peertv-it.m3u8
+
 #EXTINF:0 group-title="Rai",Rai Südtirol
 https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai World Premium
 https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai Italia US
 https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai Italia SA
 https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai Italia EU
 https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+
 #EXTINF:-1 group-title="MDS",MDS Italia US
 https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+
 #EXTINF:-1 group-title="MDS",MDS Italia EU
 https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+
 #EXTINF:-1 group-title="MDS",MDS Italia AU
 https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+
 #EXTINF:-1 group-title="CH",carac 1
 https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+
 #EXTINF:-1 group-title="CH",carac 2
 https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/playlist.m3u8
+
 #EXTINF:-1 group-title="CH",carac 3
 https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+
 #EXTINF:-1 group-title="CH",carac 4
 https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+
 #EXTINF:-1 group-title="CH",carac 5
 https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
+
 #EXTINF:-1 group-title="CH",TVM 3
 http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+
 #EXTINF:0 group-title="test",476
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
+
 #EXTINF:0 group-title="test",477
 http://200.115.120.1:8000/play/ca124/index.m3u8
+
 #EXTINF:0 group-title="test",478
 http://5.57.74.130:8000/play/a0dh
+
 #EXTINF:0 group-title="test",479
 http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
+
 #EXTINF:-1 group-title="test",600
 http://donetex.com:80/test/test/49
+
 #EXTINF:0 group-title="test",701
 http://109.169.87.42:8080/stream/2/index.m3u8
+
 #EXTINF:0 group-title="test",702
 http://109.169.87.42:8080/stream/10/index.m3u8
+
 #EXTINF:0 group-title="test",703
 http://109.169.87.42:8080/stream/18/index.m3u8
+
 #EXTINF:0 group-title="test",704
 http://109.169.87.42:8080/stream/22/index.m3u8
+
 #EXTINF:0 group-title="test",705
 http://109.169.87.42:8080/stream/26/index.m3u8
+
 #EXTINF:0 group-title="test",706
 http://109.169.87.42:8080/stream/30/index.m3u8
+
 #EXTINF:0 group-title="test",707
 https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F128126488561be9a87267f
+
 #EXTINF:0 group-title="test",708
 http://185.227.34.62:80/stream/2/index.ts
+
 #EXTINF:0 group-title="test",709
 http://nocable.cc:8080/88064703/88064703/266434
+
 #EXTINF:0 group-title="test",710
 https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2343767125eb4977361e91
+
 #EXTINF:0 group-title="test",711
 https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32202484989ac14421915
+
 #EXTINF:0 group-title="test",712
 http://198.204.228.26/live/cctv12hd.m3u8
+
 #EXTINF:0 group-title="test",713
 http://198.204.228.26/live/cctv13hd.m3u8
+
 #EXTINF:0 group-title="test",714
 http://198.204.228.26/live/cctv14hd.m3u8
+
 #EXTINF:0 group-title="test",715
 http://95.141.36.9:8080/stream/172/index.m3u8
+
 #EXTINF:0 group-title="test",716
 http://198.204.228.26/live/cctv16hd.m3u8
+
 #EXTINF:0 group-title="test",717
 http://198.204.228.26/live/cctv17hd.m3u8
+
 #EXTINF:0 group-title="test",718
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
+
 #EXTINF:0 group-title="test",719
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
+
 #EXTINF:0 group-title="test",720
 http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd
+
 #EXTINF:0 group-title="test",721
 https://jmp2.uk/stvp-IT1000002TG
+
 #EXTINF:0 group-title="test",722
 https://jmp2.uk/stvp-IT800003V4
+
 #EXTINF:0 group-title="test",723
 https://jmp2.uk/stvp-IT500010AQ
+
 #EXTINF:0 group-title="test",724
 https://jmp2.uk/stvp-ITBA2200008IM
+
 #EXTINF:0 group-title="test",725
 https://jmp2.uk/stvp-ITBC2100001G9
+
 #EXTINF:0 group-title="test",726
 https://jmp2.uk/stvp-ITBD1500002NL
+
 #EXTINF:0 group-title="test",727
 https://jmp2.uk/stvp-IT2900003UK
+
 #EXTINF:0 group-title="test",728
 https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+
 #EXTINF:0 group-title="test",729
 http://102.129.186.182:81/la5/index.m3u8
+
 #EXTINF:0 group-title="test",730
 http://102.129.186.182:81/discovery/index.m3u8
+
 #EXTINF:0 group-title="test",731
 http://102.129.186.182:81/realtime/index.m3u8
+
 #EXTINF:0 group-title="test",732
 http://102.129.186.182:81/dmax/index.m3u8
+
 #EXTINF:0 group-title="test",733
 http://102.129.186.182:81/giallo/index.m3u8
+
 #EXTINF:0 group-title="test",734
 http://102.129.186.182:81/rai4/index.m3u8
+
 #EXTINF:0 group-title="test",735
 http://102.129.186.182:81/rai5/index.m3u8
+
 #EXTINF:0 group-title="test",736
 http://102.129.186.182:81/raimovie/index.m3u8
+
 #EXTINF:0 group-title="test",737
 http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+
 #EXTINF:0 group-title="test",738
 http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+
 #EXTINF:0 group-title="test",739
 https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+
 #EXTINF:0 group-title="test",740
 https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+
 #EXTINF:0 group-title="test",ERT1 test
 https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.m3u8
+
 #EXTINF:-1 group-title="Rai",Rai 1 dvr
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Rai",Rai 2 dvr
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Rai",Rai 3 dvr
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Rai",Rai 4 dvr
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Rai",Rai 5 dvr
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="Rai",Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 group-title="test",Canale 5 test
 http://nocable.cc:8080/88064703/88064703/266385
+
 #EXTINF:-1 group-title="test",Italia 1 test
 http://nocable.cc:8080/88064703/88064703/266385
+
 #EXTINF:0 group-title="test",NOVE test
 https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
+
 #EXTINF:0 group-title="test",TV8 test
 https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
+
 #EXTINF:0 group-title="test",RSI La 1 test
 https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
+
 #EXTINF:0 group-title="test",RSI La 2 test
 https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
+
 #EXTINF:0 group-title="test",Channel4 test
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+
 #EXTINF:0 group-title="test",4Seven test
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+
 #EXTINF:0 group-title="test",Film4 test
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+
 #EXTINF:0 group-title="test",More4 test
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+
 #EXTINF:0 group-title="test",E4 test
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+
 #EXTINF:-1 group-title="test",798
 http://nocable.cc:8080/88064703/88064703/266434
+
 #EXTINF:-1 group-title="test",799
 https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+
 #EXTINF:-1 group-title="test",800
 https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
