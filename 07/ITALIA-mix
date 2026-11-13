@@ -1,0 +1,2401 @@
+#EXTM3U
+#EXTINF:-1 group-title="Rai",Rai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raiuno3-live.akamaized.net/hls/live/2017910/raiuno3/raiuno3/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raidue3-live.akamaized.net/hls/live/2017983/raidue3/raidue3/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raitre3-live.akamaized.net/hls/live/2018002/raitre3/raitre3/playlist.m3u8
+#EXTINF:-1 group-title="MDS",Rete 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="MDS",Canale 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="MDS",Italia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Cairo",LA7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d1chghleocc9sm.cloudfront.net/Live.m3u8
+#EXTINF:-1 group-title="Sky IT",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 group-title="WBD IT",NOVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
+#EXTINF:-1 group-title="News",Euronews IT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amg00882-amg00882c4-wedotv-eu-4536.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="CH",RSI La1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/rsi1/index.m3u8
+#EXTINF:-1 group-title="CH",RSI La2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/rsi2/index.m3u8
+#EXTINF:-1 group-title="CH",RTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.57:5002/play/a06k/index.m3u8
+#EXTINF:-1 group-title="CH",RTS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.57:5002/play/a06l/index.m3u8
+#EXTINF:-1 group-title="CH",SRF 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.57:5002/play/a06i/index.m3u8
+#EXTINF:-1 group-title="CH",SRF 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.57:5002/play/a06j/index.m3u8
+#EXTINF:-1 group-title="CH",SRF INFO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.57:5002/play/a06n/index.m3u8
+#EXTINF:-1 group-title="CH",Teleticino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+#EXTINF:-1 group-title="Sky IT",Comedy Central
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/comedy/index.m3u8
+#EXTINF:-1 group-title="MDS",20 Mediaset
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Rai",Rai 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raiquattro3-live.akamaized.net/hls/live/2018003/raiquattro3/raiquattro3/playlist.m3u8
+#EXTINF:-1 group-title="MDS",Iris
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Rai",Rai 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raicinque3-live.akamaized.net/hls/live/2018007/raicinque3/raicinque3/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raimovie3-live.akamaized.net/hls/live/2018010/raimovie3/raimovie3/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Sky IT",Cielo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 group-title="MDS",27 Twentyseven
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="V",TV2000
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/hls_1_3000/chunklist.m3u8
+#EXTINF:-1 group-title="Cairo",La7Cinema
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d15umi5iaezxgx.cloudfront.net/HBBTV/LA7D/DASH/Live.mpd
+#EXTINF:-1 group-title="MDS",La 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="WBD IT",Real Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8
+#EXTINF:-1 group-title="V",QVC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 group-title="WBD IT",Food Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8
+#EXTINF:-1 group-title="MDS",Cine34
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="MDS",FOCUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Music",RTL 102.5 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+#EXTINF:-1 group-title="WBD IT",Discovery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+#EXTINF:-1 group-title="WBD IT",Giallo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8
+#EXTINF:-1 group-title="MDS",Top Crime
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="MDS",Boing
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="WBD IT",K2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266397
+#EXTINF:-1 group-title="Rai",Rai Gulp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai yoyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="WBD IT",frisbee
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266393
+#EXTINF:-1 group-title="V",MANGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/manifest.m3u8
+#EXTINF:-1 group-title="MDS",Cartoonito
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="V",Super!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist_dvr.m3u8
+#EXTINF:-1 group-title="Rai",Rai News 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rainews2-live.akamaized.net/hls/live/598327/rainews2/rainews2/playlist.m3u8
+#EXTINF:-1 group-title="MDS",Mediaset Italia Due
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Sky IT",Sky TG24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 group-title="MDS",TGCOM 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="WBD IT",DMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8
+#EXTINF:-1 group-title="V",Casa Italia 53
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://liveac915sp.b-cdn.net/channel09/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai Storia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="MDS",Mediaset Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="WBD IT",HGTV Home&Garden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/HGTV/CMAF/index.m3u8
+#EXTINF:-1 group-title="Rai",Italiana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="WBD IT",Turbo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8
+#EXTINF:-1 group-title="V",Sportitalia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://distribution.sportitalialive.it/sportitalia/sihd_abr/playlist.m3u8
+#EXTINF:-1 group-title="V",Club TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5a1178b42cc03.streamlock.net/travel/travel/master.m3u8
+#EXTINF:-1 group-title="V",Donna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f11919dca3bd.streamlock.net/donnatv/_definst_/donnatv/chunklist_w1338314090.m3u8
+#EXTINF:-1 group-title="V",IlSole24OreTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
+#EXTINF:-1 group-title="V",supertennis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 group-title="V",Alma TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/alice/index.m3u8
+#EXTINF:-1 group-title="MDS",Radio 105 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="MDS",R101 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="V",BOM Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f22d76e220e1.streamlock.net/canale6/canale6/master.m3u8
+#EXTINF:-1 group-title="Music",Deejay TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 group-title="Music",RadioItalia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/stream03/streamPlaylist.m3u8
+#EXTINF:-1 group-title="V",Canale Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://liveac915sp.b-cdn.net/channel11/playlist.m3u8
+#EXTINF:-1 group-title="Music",Radionorba TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream12.xdevel.com/video0s975885-2349/stream/chunks_dvr.m3u8
+#EXTINF:-1 group-title="Music",RadioBruno TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream10.xdevel.com/video1s975552-1585/stream/chunks.m3u8
+#EXTINF:-1 group-title="Music",RDS Social TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream.rdstv.radio/index.m3u8
+#EXTINF:-1 group-title="Music",Radio Kiss Kiss TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="Music",Kiss Kiss Napoli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Rai",Rai Radio 2 Visual 202
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://visualradiodue3-live.akamaized.net/hls/live/2034078/visualradiodue3/visualradiodue3/playlist.m3u8
+#EXTINF:-1 group-title="Music",M2O TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 group-title="MDS",Radio Montecarlo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="MDS",Virgin Radio TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+#EXTINF:-1 group-title="Music",RADIOFRECCIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",RADIOZETA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",RTL 102.5 Traffic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",RTL 102.5 Disco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",RTL 102.5 Best
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",RTL 102.5 Napulè
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",RTL 102.5 Caliente
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",RTL 102.5 Bro&Sis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8
+#EXTINF:-1 group-title="Music",Radio Capital TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdnr18-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/master.m3u8
+#EXTINF:-1 group-title="Music",Music Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/mb_hits/index.m3u8
+#EXTINF:-1 group-title="Music",Music Box Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/mb_dance/index.m3u8
+#EXTINF:-1 group-title="Music",Music Box Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/mb_classic/index.m3u8
+#EXTINF:-1 group-title="Music",Music Box Sexy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/mb_sexy/index.m3u8
+#EXTINF:-1 group-title="News",BBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1 group-title="News",SKY News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_skynews/playlist.m3u8
+#EXTINF:-1 group-title="News",CNN International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 group-title="MDS",GF Regia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-b7/b7-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="MDS",GF Regia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-b8/b8-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="MDS",GF Un'ora fa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live03-col.msf.cdn.mediaset.net/live/ch-b9/b9-clr.isml/manifest_hr.mpd
+#EXTINF:-1 group-title="Rai",Rai 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTINF:-1 group-title="IT",Rai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/rai1/index.m3u8
+#EXTINF:-1 group-title="IT",Rai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/rai2/index.m3u8
+#EXTINF:-1 group-title="IT",Rai 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/rai3/index.m3u8
+#EXTINF:-1 group-title="IT",Rete 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.62/stream/14/index.m3u8
+#EXTINF:-1 group-title="IT",Canale 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.62/stream/18/index.m3u8
+#EXTINF:-1 group-title="IT",Italia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.62/stream/21/index.m3u8
+#EXTINF:-1 group-title="IT",LA7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/la7/index.m3u8
+#EXTINF:-1 group-title="IT",TV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/tv8/index.m3u8
+#EXTINF:-1 group-title="IT",NOVE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266406
+#EXTINF:-1 group-title="IT",LA7Cinema HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/la7d/index.m3u8
+#EXTINF:-1 group-title="CH",RSI LA 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.57:5002/play/a06o/index.m3u8
+#EXTINF:-1 group-title="CH",RSI LA 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.57:5002/play/a06p/index.m3u8
+#EXTINF:-1 group-title="IT",Nickelodeon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.104/stream/118/index.m3u8
+#EXTINF:-1 group-title="IT",Nick JR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.104/stream/115/index.m3u8
+#EXTINF:-1 group-title="IT",Cartoon Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.104/stream/123/index.m3u8
+#EXTINF:-1 group-title="IT",DeA Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.104/stream/113/index.m3u8
+#EXTINF:-1 group-title="IT",WeDo Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-wedomoviesit-ono/playlist.m3u8
+#EXTINF:-1 group-title="News",Class CNBC IT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="News",Euronews EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_euronews/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TG Norba 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/tgnorba/master.m3u8?start=now-2h&end=now
+#EXTINF:-1 group-title="Regionali",Telenorba
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-telenorba.cdn.netrw.it/telenorba/hls/ccr/telenorba/master.m3u8?start=now-2h&end=now
+#EXTINF:-1 group-title="Regionali",Antenna Sud
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/antennasud/master.m3u8?start=now-2h&end=now
+#EXTINF:-1 group-title="Regionali",Antenna Sud Extra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/extra/master.m3u8?start=now-2h&end=now
+#EXTINF:-1 group-title="Regionali",Teleregione Color
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-antennasud.cdn.netrw.it/antennasud/hls/ccr/teleregione/master.m3u8?start=now-2h&end=now
+#EXTINF:-1 group-title="Regionali",Telebari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://w1.mediastreaming.it/telebari/livestream/master.m3u8
+#EXTINF:-1 group-title="Regionali",Delta TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://hbbtv-server.zivoli.it:8080/hls/deltatv/deltatv/index.m3u8
+#EXTINF:-1 group-title="Regionali",Teledehon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/teledehonapp/ngrp:teledehonapp_all/master.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://canale8.zappr.stream/live/main-204747824658.m3u8
+#EXTINF:-1 group-title="Regionali",Telenord
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/telenord/telenord/master.m3u8
+#EXTINF:-1 group-title="Regionali",Canale 10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Primocanale
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telequattro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdnm7-ce1dae8cbf60493d91a7231f4400efe0.msvdn.net/live/S94185256/bAFnpK1SnJ7a/master.m3u8
+#EXTINF:-1 group-title="Regionali",Telefriuli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdnr7-5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/master.m3u8
+#EXTINF:-1 group-title="Regionali",TVA Vicenza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://fms.telemar.it:1936/live/diretta_1/master.m3u8
+#EXTINF:-1 group-title="Regionali",Telechiara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://fms.telemar.it:1936/telechiara/diretta/master.m3u8
+#EXTINF:-1 group-title="Regionali",Telenuovo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://liveac901.b-cdn.net/channel02.smil/manifest.mpd
+#EXTINF:-1 group-title="Regionali",Primantenna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/primantenna14/primantenna14/playlist.m3u8
+#EXTINF:-1 group-title="V",Telecampione
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/telecampione/telecampione/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Antenna Sicilia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://antennasicilialive.cdn.netrw.it/antennasicilialive/hls/ccr/antennasicilia/master.m3u8
+#EXTINF:-1 group-title="Regionali",LaC Tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdng16-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Regionali",LaC OnAir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdng9-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/100197/SOrBDPy/chunklist.m3u8
+#EXTINF:-1 group-title="Regionali",LaC Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdnr6-f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/chunklist_b2128000.m3u8
+#EXTINF:-1 group-title="Regionali",Video Calabria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdnr17-a8a02dd9a49a4fc9810743615c65ab73.msvdn.net/live/S76734991/i6NeNqLYaspb/chunklist.m3u8
+#EXTINF:-1 group-title="Regionali",RTI Calabria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream.ets-sistemi.it:2020/hls/rticalabria/rticalabria.m3u8
+#EXTINF:-1 group-title="Regionali",Video Mediterraneo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdnm4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4gWO7tTzpK3N/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",TeleOne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Rei TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/reitv/reitv/master.m3u8
+#EXTINF:-1 group-title="Regionali",Rete 8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/rete8/rete8/master.m3u8
+#EXTINF:-1 group-title="Regionali",Esperia TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telerent
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5db313b643fd8.streamlock.net/telerent/telerent/manifest.m3u8
+#EXTINF:-1 group-title="V",EQU TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://livestream-epiqa.akamaized.net/hls/live/2039453/EQUTV/master.m3u8
+#EXTINF:-1 group-title="V",ACI Sport TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+#EXTINF:-1 group-title="V",GO TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/gooo/gooo/master.m3u8
+#EXTINF:-1 group-title="Regionali",Bergamo TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/master.m3u8
+#EXTINF:-1 group-title="Regionali",Rete 55
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live1.giocabet.tv/stream/6/index.m3u8
+#EXTINF:-1 group-title="Regionali",Telecupole
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn7-origin.azotosolutions.com:8443/cdnedge40/telecupole/index.m3u8
+#EXTINF:-1 group-title="Regionali",TV7 Triveneta Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s369
+#EXTINF:-1 group-title="Regionali",A3 Veneto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s366
+#EXTINF:-1 group-title="Regionali",7Gold Telepadova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s364
+#EXTINF:-1 group-title="V",SI SoloCalcio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://italiansport-solocalcio-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Alto Adige TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/master.m3u8
+#EXTINF:-1 group-title="Regionali",Trentino TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tntv.fluid.stream/TrentinoTV/livestream/master.m3u8
+#EXTINF:-1 group-title="Regionali",TV33 TN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/tv33tn/tv33tn/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",RTTR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Regionali",Telelombardia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66074&cntr=0
+#EXTINF:-1 group-title="Regionali",Antenna 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://vercel-api.zappr.stream/api?https://telelombardia.video/video/viewlivestreaming?rel=66075&cntr=0
+#EXTINF:-1 group-title="DE",ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://90.183.52.46:4000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="AT",ORF 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://test13.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 group-title="AT",ORF 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",Tele 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://s6.hopslan.com/tele5X/index.m3u8
+#EXTINF:-1 group-title="DE",Das Erste
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ard_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="DE",ZDF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_zdf_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="DE",3sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_drei_sat_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",RTL Television
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rtl_ger_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",RTL Zwei
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://193.239.187.106/RTL2/index.m3u8
+#EXTINF:-1 group-title="DE",SIXX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",ProSieben
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",SAT.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_sat_eins_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",SAT.1 Gold
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",ARTE DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="DE",Kabel Eins
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",Super RTL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_super_rtl_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",VOX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_vox_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",NITRO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rtl_nitro_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",ZDFinfo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://90.183.52.46:4000/play/a05k/index.m3u8
+#EXTINF:-1 group-title="DE",ZDFneo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://90.183.52.46:4000/play/a05l/index.m3u8
+#EXTINF:-1 group-title="DE",Pro7Maxx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://s6.hopslan.com/pro7maxxX/index.m3u8
+#EXTINF:-1 group-title="DE",KIKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",WELT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_welt_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",BR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_br_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",MDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",NDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",WDR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",RBB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1 group-title="DE",SWR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_swr_tizen/playlist.m3u8
+#EXTINF:-1 group-title="Music",Deluxe Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 group-title="Music",Deluxe Dance
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 group-title="Music",Deluxe Rap
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+#EXTINF:-1 group-title="Music",Mezzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-3.otcnet.ru/Mezzo/index.m3u8
+#EXTINF:-1 group-title="FR",TF1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07k/index.m3u8
+#EXTINF:-1 group-title="FR",France 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07g/index.m3u8
+#EXTINF:-1 group-title="FR",France 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07j/index.m3u8
+#EXTINF:-1 group-title="FR",France 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07h/index.m3u8
+#EXTINF:-1 group-title="FR",France 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07c/index.m3u8
+#EXTINF:-1 group-title="FR",M6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a079/index.m3u8
+#EXTINF:-1 group-title="FR",Arte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07b/index.m3u8
+#EXTINF:-1 group-title="FR",LCP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07n/index.m3u8
+#EXTINF:-1 group-title="FR",W9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07a/index.m3u8
+#EXTINF:-1 group-title="FR",TMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07l/index.m3u8
+#EXTINF:-1 group-title="FR",TFX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07m/index.m3u8
+#EXTINF:-1 group-title="FR",Gulli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://sr-m6web.live.6cloud.fr/out/v1/6play/6play-gulli/cmaf_cenc00/dash-short-hd.mpd
+#EXTINF:-1 group-title="FR",BFM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8
+#EXTINF:-1 group-title="FR",CNEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 group-title="FR",LCI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07o/index.m3u8
+#EXTINF:-1 group-title="FR",franceinfo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07i/index.m3u8
+#EXTINF:-1 group-title="FR",CSTAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 group-title="FR",T18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/streams/t18/t18-dm.m3u8
+#EXTINF:-1 group-title="FR",NOVO19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5eb46ec-rbm-hilv-fsly.cdn.redbee.live/L6/8e2b4270/9fc956ca.isml/.mpd
+#EXTINF:-1 group-title="FR",TF1 Series Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a074/index.m3u8
+#EXTINF:-1 group-title="FR",L'équipe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dq37unyetkpcz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-m04j89j7k5gtp/LEquipe_FR.m3u8
+#EXTINF:-1 group-title="FR",6Ter
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.84:7001/play/a07d/index.m3u8
+#EXTINF:-1 group-title="FR",RMC Story
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d15aro46bnpfm8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fqkqiax1078up/RMC_Story_FR.m3u8
+#EXTINF:-1 group-title="FR",RMC Decouverte
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d16zzycxcd0m0r.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hixvx5kymecr9/RMC_Decouverte_FR.m3u8
+#EXTINF:-1 group-title="FR",RMC Life
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3dcdjv6dx07iz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eaaww2dyp3iih/RMC_Life_FR.m3u8
+#EXTINF:-1 group-title="FR",20 Minutes TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-20minutestv.digiteka.com/1961167769/index.m3u8
+#EXTINF:-1 group-title="UK",BBC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4001/play/a08e/index.m3u8
+#EXTINF:-1 group-title="UK",BBC 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4001/play/a08f/index.m3u8
+#EXTINF:-1 group-title="UK",BBC 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4001/play/a08p/index.m3u8
+#EXTINF:-1 group-title="UK",BBC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4001/play/a08g/index.m3u8
+#EXTINF:-1 group-title="UK",ITV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4004/play/a07k/index.m3u8
+#EXTINF:-1 group-title="UK",ITV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4004/play/a07l/index.m3u8
+#EXTINF:-1 group-title="UK",ITV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4004/play/a07o/index.m3u8
+#EXTINF:-1 group-title="UK",ITV 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4004/play/a07j/index.m3u8
+#EXTINF:-1 group-title="UK",Channel 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4007/play/a074/index.m3u8
+#EXTINF:-1 group-title="UK",Channel 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4003/play/a06m/index.m3u8
+#EXTINF:-1 group-title="UK",Sky Mix
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:4007/play/a071/index.m3u8
+#EXTINF:-1 group-title="ES",Star TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="ES",TVE Int EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_dvr_1080.m3u8
+#EXTINF:-1 group-title="ES",RTVE 24h
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+#EXTINF:-1 group-title="V",Rete Oro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 group-title="V",Sicilia 242
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
+#EXTINF:-1 group-title="V",RTP Messina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+#EXTINF:-1 group-title="V",Cafe TV 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://srvx1.selftv.video/cafe/live/playlist.m3u8
+#EXTINF:-1 group-title="V",Parole Di Vita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream.paroledivita.org/paroledivita.m3u8
+#EXTINF:-1 group-title="V",Padre Pio TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
+#EXTINF:-1 group-title="V",BeJoy Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream.paroledivita.org/bjy/live/stream_1.m3u8
+#EXTINF:-1 group-title="V",248 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f22d76e220e1.streamlock.net/canale2/canale2/playlist.m3u8
+#EXTINF:-1 group-title="V",249 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://64b16f23efbee.streamlock.net/grandeitaliatv/grandeitaliatv/playlist.m3u8
+#EXTINF:-1 group-title="Sky IT",Sport Web
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11222/skysportweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 group-title="V",Le Cronache
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://77.68.40.210:8888/hls/cronache.m3u8
+#EXTINF:-1 group-title="V",Radio Radio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream-200912.castr.net/646b335e2291a2022444bb7c/live_206703701da711ee9e97cf60d6eac982/tracks-v1a1/rewind-14400.ts.m3u8
+#EXTINF:-1 group-title="V",Telerama
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://str03.fluid.stream/TeleRama/livestream/playlist.m3u8
+#EXTINF:-1 group-title="V",Telefoggia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://59d7d6f47d7fc.streamlock.net/telefoggia/telefoggia/master.m3u8
+#EXTINF:-1 group-title="V",Studio 100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn16.streamshow.it/cloud-studio100/studio100/master.m3u8
+#EXTINF:-1 group-title="V",GRP Vera TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
+#EXTINF:-1 group-title="V",Gambero Rosso
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amg14891-amg14891c3-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="V",Canale 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/master.m3u8
+#EXTINF:-1 group-title="V",Canale 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://59d7d6f47d7fc.streamlock.net/canale7/canale7/master.m3u8
+#EXTINF:-1 group-title="V",Urania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://69d6d7eab63943c4810c4098feaa0d9c.msvdn.net/live/S76542633/a8BwWIUxagF6/playlist.m3u8
+#EXTINF:-1 group-title="V",Tele A1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream.ets-sistemi.it:2020/hls/telea1-live/telea1-live.m3u8
+#EXTINF:-1 group-title="V",Canale 122
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 group-title="V",Primaset
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
+#EXTINF:-1 group-title="V",NTR 264
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://primaset.servizistreaming.it/hls/streamingcanale2.m3u8
+#EXTINF:-1 group-title="V",Notix TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://primaset.servizistreaming.it/hls/streamingcanale3.m3u8
+#EXTINF:-1 group-title="V",Reggio TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/index.m3u8
+#EXTINF:-1 group-title="V",TRC Modena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://trm-trcmodena.cdn.netrw.it/event/hls/ccr/trcmodena/master.m3u8?start=now-1h&end=now
+#EXTINF:-1 group-title="V",TVRS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn8.streamshow.it/cloud-tvrs/tvrs/manifest.mpd
+#EXTINF:-1 group-title="V",269 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.91.68.35:1935/live/cdn3/playlist.m3u8
+#EXTINF:-1 group-title="V",270 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.91.68.35:1935/live/cdn5/playlist.m3u8
+#EXTINF:-1 group-title="V",Canale Italia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://liveac915ha.streamcloud.it/channel10/playlist.m3u8
+#EXTINF:-1 group-title="V",Giornale Radio TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gr.fluid.stream/GR_tv/livestream/index.m3u8
+#EXTINF:-1 group-title="V",Orler TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://w1.mediastreaming.it/orlertv/livestream/master.m3u8
+#EXTINF:-1 group-title="V",Value24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f22d76e220e1.streamlock.net/canale1/canale1/playlist.m3u8
+#EXTINF:-1 group-title="V",Sport Outdoor TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gto2000-sportoutdoortv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="V",Fishing TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 group-title="V",Tele Molise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://654be07bf207c.streamlock.net/Telemolise4k-NEW/_definst_/Telemolise4K/playlist.m3u8
+#EXTINF:-1 group-title="V",18 Molise
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://654be07bf207c.streamlock.net/Telemolise2-FB/_definst_/Telemolise2/playlist.m3u8
+#EXTINF:-1 group-title="V",Nokep TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamer2.premio.link/nokep_hd/index.m3u8
+#EXTINF:-1 group-title="Music",Rock TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_RockTV/playlist.m3u8
+#EXTINF:-1 group-title="Music",Hip Hop TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://3ff10b5c36cb4729a63d9a2eb5e629f7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8
+#EXTINF:-1 group-title="Music",Match Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5a1178b42cc03.streamlock.net/MATCHMUSIC/MATCHMUSIC/master.m3u8
+#EXTINF:-1 group-title="Music",Vuemme
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5db313b643fd8.streamlock.net/vm/vm/master.m3u8
+#EXTINF:-1 group-title="Music",Radio Ibiza TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://str48.fluid.stream/RadioIbizaTV/livestream/index.m3u8
+#EXTINF:-1 group-title="Music",Company TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://company.fluid.stream/CompanyTV/livestream/index.m3u8
+#EXTINF:-1 group-title="Music",Radio Ticino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://2-fss-2.themediacdn.com/pl_124/amlst:204654-1927794/index.m3u8
+#EXTINF:-1 group-title="V",BBC Series IT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="V",BBC Earth IT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amg00793-amg00793c23-samsung-it-4780.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="V",Uninettuno TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream6-rai-it.akamaized.net/live/uninettuno/chunklist.m3u8
+#EXTINF:-1 group-title="V",TMC Telemontecarlo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8
+#EXTINF:-1 group-title="V",Super Six
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+#EXTINF:-1 group-title="V",Euro TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 group-title="V",Iunior TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 group-title="V",Rete Mia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+#EXTINF:-1 group-title="test",Rete A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://diretta.rete-a.tv/static/streaming-playlists/hls/85e81d59-1e07-4f9f-b5fe-9fee25d96467/0.m3u8
+#EXTINF:-1 group-title="test",Peer TV IT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://iptv.peer.biz/live/peertv-it.m3u8
+#EXTINF:-1 group-title="World",BBC World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://103.255.250.188:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying&uin=0&ts=0&sign=)
+#EXTINF:-1 group-title="World",CNN World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://103.255.250.188:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying&uin=0&ts=0&sign=)
+#EXTINF:-1 group-title="Music",MTV Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://103.255.250.188:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying&uin=0&ts=0&sign=)
+#EXTINF:-1 group-title="Rai",Rai Südtirol
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="ES",La 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://lge-lgla2.otteravision.com/lge/lgla1/lgla1.m3u8
+#EXTINF:-1 group-title="ES",La 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://lge-lgla2.otteravision.com/lge/lgla2/lgla2.m3u8
+#EXTINF:-1 group-title="ES",Antena 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/20/index.m3u8
+#EXTINF:-1 group-title="ES",Cuatro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/42/index.m3u8
+#EXTINF:-1 group-title="ES",Telecinco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/41/index.m3u8
+#EXTINF:-1 group-title="ES",La Sexta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://90.163.85.113:8093/stream/21/index.m3u8
+#EXTINF:-1 group-title="ES",La Séptima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.52:8401/play/a093/index.m3u8
+#EXTINF:-1 group-title="ES",DKISS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.52:8401/play/a094/index.m3u8
+#EXTINF:-1 group-title="ES",tdp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://lge-lgla2.otteravision.com/lge/lgtdp/lgtdp.m3u8
+#EXTINF:-1 group-title="ES",clan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://lge-lgla2.otteravision.com/lge/lgcla/lgcla.m3u8
+#EXTINF:-1 group-title="PT",RTP 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="PT",RTP 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="PT",SIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="PT",TVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="PT",RTP N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="PT",SIC N
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="PT",Canal 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="PT",TV Record
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="PT",TV Galicia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="PT",CNN Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="GR",ERT 1 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05x/index.m3u8
+#EXTINF:-1 group-title="GR",ERT 2 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05f/index.m3u8
+#EXTINF:-1 group-title="GR",ERT 3 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05g/index.m3u8
+#EXTINF:-1 group-title="GR",MEGA GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05r/index.m3u8
+#EXTINF:-1 group-title="GR",SKAI GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05n/index.m3u8
+#EXTINF:-1 group-title="GR",STAR GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05q/index.m3u8
+#EXTINF:-1 group-title="GR",ALPHA GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05m/index.m3u8
+#EXTINF:-1 group-title="GR",ANT1 GR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05o/index.m3u8
+#EXTINF:-1 group-title="GR",Open Beyond
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05p/index.m3u8
+#EXTINF:-1 group-title="GR",ERT News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://176.65.153.4:8301/play/a05y/index.m3u8
+#EXTINF:-1 group-title="HR",HRT 1 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT1/default/index.mpd
+#EXTINF:-1 group-title="HR",HRT 2 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT2/default/index.mpd
+#EXTINF:-1 group-title="HR",HRT 3 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT3/default/index.mpd
+#EXTINF:-1 group-title="HR",HRT 4 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd
+#EXTINF:-1 group-title="HR",RTL 1 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL/default/index.mpd
+#EXTINF:-1 group-title="HR",RTL 2 HR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/RTL2/default/index.mpd
+#EXTINF:-1 group-title="HR",Nova BH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://best-str.umn.cdn.united.cloud/stream?stream=hp7000&sp=novas&channel=novashd&u=novas&p=n0v43!23t001&player=m3u8
+#EXTINF:-1 group-title="RS",RTS1 RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.101.50.1:10101
+#EXTINF:-1 group-title="RS",RTS2 RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.101.50.1:10102
+#EXTINF:-1 group-title="RS",B92 RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.101.50.1:10106
+#EXTINF:-1 group-title="RO",TVR1 RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://89.44.231.73:7000/tvr1
+#EXTINF:-1 group-title="RO",TVR2 RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://89.44.231.73:7000/tvr2
+#EXTINF:-1 group-title="RO",TVR3 RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://116.202.113.254:8888/tvr3
+#EXTINF:-1 group-title="RO",ProTV RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://89.44.231.73:7000/protv
+#EXTINF:-1 group-title="RO",Antena1 RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://89.44.231.73:7000/antena1
+#EXTINF:-1 group-title="RO",Antena3 RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://89.44.231.73:7000/antena3
+#EXTINF:-1 group-title="RO",PrimaTV RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://89.44.231.73:7000/primatv
+#EXTINF:-1 group-title="RO",Digi24 RO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://89.44.231.73:7000/digi24hd
+#EXTINF:-1 group-title="RO",Moldova 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://116.202.113.254:8888/Moldova1hd
+#EXTINF:-1 group-title="BG",bTV BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://85.11.189.178:8080/bTV/index.m3u8
+#EXTINF:-1 group-title="BG",BNT 1 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://85.11.189.178:8080/BNT1HD/index.m3u8
+#EXTINF:-1 group-title="BG",BNT 2 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.54.128.52:9999/BNT2
+#EXTINF:-1 group-title="BG",BNT 3 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://85.11.189.178:8080/BNTHD/index.m3u8
+#EXTINF:-1 group-title="BG",BNT 4 BG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://87.120.179.187:8000/play/a02j
+#EXTINF:-1 group-title="World",355
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="World",356
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="World",357
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="World",358
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="Music",MCM TOP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Music",360 TuneBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="Music",Óčko
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ocko/playlist.m3u8
+#EXTINF:-1 group-title="Music",Óčko Expres
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ocko_expres/playlist.m3u8
+#EXTINF:-1 group-title="Music",Óčko Black
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ocko_black/playlist.m3u8
+#EXTINF:-1 group-title="Music",Óčko Star
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ocko_star/playlist.m3u8
+#EXTINF:-1 group-title="Music",Stingray iConcerts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_stingray_iconcerts_hd_hevc50/playlist.m3u8
+#EXTINF:-1 group-title="Music",Rebel CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rebel/playlist.m3u8
+#EXTINF:-1 group-title="World",DocuBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_docubox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="World",Fast&FunBox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_fast_and_funbox_medium_atk/playlist.m3u8
+#EXTINF:-1 group-title="World",FilmBox Festival
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_filmbox_arthouse_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="World",France 24 FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="World",France 24 EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="World",France 24 ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="World",France 24 AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8
+#EXTINF:-1 group-title="World",TV5Monde Europe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
+#EXTINF:-1 group-title="World",TV5Monde Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ott.tv5monde.com/Content/HLS/Live/channel(info)/variant.m3u8
+#EXTINF:-1 group-title="World",DW English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 group-title="World",DW Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 group-title="World",Al Jazeera EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1 group-title="World",Al Jazeera AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_aljazeera/playlist.m3u8
+#EXTINF:-1 group-title="World",CCTV 4 EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 group-title="World",CGTN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_cgtn/playlist.m3u8
+#EXTINF:-1 group-title="World",CGTN DOC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1 group-title="World",CGTN ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dash3.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:-1 group-title="World",CGTN FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dash3.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:-1 group-title="World",Arirang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_arirang/playlist.m3u8
+#EXTINF:-1 group-title="World",NHK World Japan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_nhk/playlist.m3u8
+#EXTINF:-1 group-title="World",TRT World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 group-title="World",TVP World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1 group-title="World",TVP Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1 group-title="World",TVP Polonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1 group-title="World",1+1 Марафон
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/1plus1_marathon/playlist.m3u8
+#EXTINF:-1 group-title="World",1+1 International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_one_plus_one_int_tizen/playlist.m3u8
+#EXTINF:-1 group-title="World",Kvartal TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/kvartal_tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Дім
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/telekanal_dim/playlist.m3u8
+#EXTINF:-1 group-title="World",Espreso TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://dash2.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1 group-title="World",Current Time
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1 group-title="World",Freedom UATV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_uatv/playlist.m3u8
+#EXTINF:-1 group-title="World",24 Канал UA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="World",BBC First
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/bbc_first/index.m3u8
+#EXTINF:-1 group-title="World",Euronews English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-en/25002/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Français
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-fr/25026/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Deutsch
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-de/25027/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Italiano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-it/25070/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-es/25053/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Português
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-pt/25040/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Polski
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-pl/26382/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Русский
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-ru/25071/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Ελληνικά
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-el/25068/index.m3u8
+#EXTINF:-1 group-title="World",Euronews Magyar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/euronews-hu/25075/index.m3u8
+#EXTINF:-1 group-title="World",Africanews English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/africanews-en/25049/index.m3u8
+#EXTINF:-1 group-title="World",Africanews Français
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8
+#EXTINF:-1 group-title="Rai",Rai World Premium
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIUSA/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia SA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIEU/Live.m3u8
+#EXTINF:-1 group-title="Rai",Rai Italia AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIHD/Live.m3u8
+#EXTINF:-1 group-title="MDS",MDS Italia US
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8
+#EXTINF:-1 group-title="MDS",MDS Italia EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8
+#EXTINF:-1 group-title="MDS",MDS Italia AU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8
+#EXTINF:-1 group-title="Music",2TV LT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://lnk5511.bstrm.net/live/687e3ff1679c8d4d68fab6c5/hd/manifest.mpd
+#EXTINF:-1 group-title="CH",carac 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge13.vedge.infomaniak.com/livecast/ik:event/playlist.m3u8
+#EXTINF:-1 group-title="CH",carac 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/playlist.m3u8
+#EXTINF:-1 group-title="CH",carac 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
+#EXTINF:-1 group-title="CH",carac 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
+#EXTINF:-1 group-title="CH",carac 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://edge16.vedge.infomaniak.com/livecast/ik:carac5/playlist.m3u8
+#EXTINF:-1 group-title="CH",TVM 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://livevideo.infomaniak.com/streaming/livecast/tvm3/playlist.m3u8
+#EXTINF:-1 group-title="World",3cat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://directes3-tv-int.3catdirectes.cat/live-content/tvi-hls/index.m3u8
+#EXTINF:-1 group-title="World",3cat info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
+#EXTINF:-1 group-title="World",RTÉ ONE IE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://41.180.140.146:4200/bysid/2101
+#EXTINF:-1 group-title="World",NRK 1 NO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.19.191.171:8090/NRK1/index.m3u8
+#EXTINF:-1 group-title="USA",ABC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+#EXTINF:-1 group-title="USA",NBC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+#EXTINF:-1 group-title="USA",CBS News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="USA",Fox News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://4.30.180.36:8420/foxnews/index.m3u8?token=test
+#EXTINF:-1 group-title="USA",MSNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvsen6.aynaott.com/msnbc/index.m3u8
+#EXTINF:-1 group-title="USA",CNBC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amg01079-nbcuuk-amg01079c1-samsung-it-1255.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsungit/playlist.m3u8
+#EXTINF:-1 group-title="USA",Fox Live Now
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="USA",BRAVO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://41.205.93.154/BRAVO/mpegts
+#EXTINF:-1 group-title="USA",MOREMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:-1 group-title="USA",FUSE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:-1 group-title="USA",VH1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:-1 group-title="USA",CMT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:-1 group-title="USA",MTV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:-1 group-title="USA",MTV LIVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 group-title="USA",Paramount
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA",Revolt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:-1 group-title="USA",NAT GEO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+#EXTINF:-1 group-title="USA",NAT GEO WILD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:-1 group-title="USA",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:-1 group-title="USA",BBC America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="USA",Boomerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
+#EXTINF:-1 group-title="USA",Bounce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:-1 group-title="USA",Buzzr TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_BUZZR/index.m3u8
+#EXTINF:-1 group-title="USA",Cooking Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_COOKING/index.m3u8
+#EXTINF:-1 group-title="USA",Destination America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_DESTINATION_AMERICA/index.m3u8
+#EXTINF:-1 group-title="USA",E! Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_E/index.m3u8
+#EXTINF:-1 group-title="USA",HLN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:-1 group-title="USA",IFC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:-1 group-title="USA",ION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_ION/index.m3u8
+#EXTINF:-1 group-title="USA",MAV TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_MAV_TV/index.m3u8
+#EXTINF:-1 group-title="USA",SYFY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:-1 group-title="USA",Starz Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:-1 group-title="USA",TruTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+#EXTINF:-1 group-title="USA",Vice TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 group-title="USA",WE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_WE_TV/index.m3u8
+#EXTINF:-1 group-title="USA",NBA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_NBA/index.m3u8
+#EXTINF:-1 group-title="USA",Tennis Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_TENNIS/index.m3u8
+#EXTINF:-1 group-title="USA",YES Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA",SEC Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="USA",ACC Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_ACCN/index.m3u8
+#EXTINF:-1 group-title="USA",WGN 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 group-title="USA",OAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_OAN/index.m3u8
+#EXTINF:-1 group-title="USA",NEWSMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_newsmax_avc/playlist.m3u8
+#EXTINF:-1 group-title="USA",Bloomberg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvsen6.aynaott.com/bloombergtv/index.m3u8
+#EXTINF:-1 group-title="USA",475
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 group-title="test",476
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
+#EXTINF:-1 group-title="test",477
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://200.115.120.1:8000/play/ca124/index.m3u8
+#EXTINF:-1 group-title="test",478
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://5.57.74.130:8000/play/a0dh
+#EXTINF:-1 group-title="test",479
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
+#EXTINF:-1 group-title="World",MTV Global
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.84.187.172:3001/udp/239.100.10.67:5000
+#EXTINF:-1 group-title="World",Star TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.5.116.228:8000/play/a0h0/index.m3u8
+#EXTINF:-1 group-title="World",TVE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.5.116.228:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="World",Canal 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.235.37.226/canal13hd/index.m3u8
+#EXTINF:-1 group-title="World",NTN24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.235.37.226/ntn24/index.m3u8
+#EXTINF:-1 group-title="World",A3 Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.235.37.226/antena3/index.m3u8
+#EXTINF:-1 group-title="World",Telesur Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 group-title="World",Telesur English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 group-title="World",Telemundo Internacional
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="World",CNN Español
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/CNN-ESPANOL/index.m3u8
+#EXTINF:-1 group-title="Generale",490
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.15.93/live/mb_hits/index.m3u8
+#EXTINF:-1 group-title="Generale",491
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s361
+#EXTINF:-1 group-title="Generale",492
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s362
+#EXTINF:-1 group-title="Generale",493
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s363
+#EXTINF:-1 group-title="Generale",494
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s364
+#EXTINF:-1 group-title="Generale",495
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s365
+#EXTINF:-1 group-title="Generale",496
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s366
+#EXTINF:-1 group-title="Generale",497
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s367
+#EXTINF:-1 group-title="Generale",498
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s368
+#EXTINF:-1 group-title="Generale",499
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://84.22.55.2:8032/play/s369
+#EXTINF:-1 group-title="Generale",500
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0ml/index.m3u8
+#EXTINF:-1 group-title="s",501
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0cv/index.m3u8
+#EXTINF:-1 group-title="s",502
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0id/index.m3u8
+#EXTINF:-1 group-title="s",503
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0in/index.m3u8
+#EXTINF:-1 group-title="s",504
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0io/index.m3u8
+#EXTINF:-1 group-title="s",505
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0fy/index.m3u8
+#EXTINF:-1 group-title="s",506
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0i7/index.m3u8
+#EXTINF:-1 group-title="s",507
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a04i/index.m3u8
+#EXTINF:-1 group-title="s",508
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://186.148.196.250:81/play/a0cx/index.m3u8
+#EXTINF:-1 group-title="s",509
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://91.205.196.7:8000/play/a02z
+#EXTINF:-1 group-title="s",510
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://91.205.196.7:8000/play/a030
+#EXTINF:-1 group-title="s",511
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.124.49.162:15027
+#EXTINF:-1 group-title="s",512
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.124.49.162:15028
+#EXTINF:-1 group-title="s",513
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.124.49.162:15029
+#EXTINF:-1 group-title="s",514
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.124.49.162:15030
+#EXTINF:-1 group-title="s",515
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.124.49.162:15023
+#EXTINF:-1 group-title="s",516
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.124.49.162:15024
+#EXTINF:-1 group-title="s",517
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://79.124.49.162:15025
+#EXTINF:-1 group-title="s",Match 1 RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/130/index.m3u8
+#EXTINF:-1 group-title="s",Match 2 RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/142/index.m3u8
+#EXTINF:-1 group-title="s",Match 3 RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/185/index.m3u8
+#EXTINF:-1 group-title="s",521
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.235.37.226/espnhd/index.m3u8
+#EXTINF:-1 group-title="s",522
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://45.235.37.226/espn2hd/index.m3u8
+#EXTINF:-1 group-title="s",523
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://216.106.179.7:8080/ESPN3HD/index.m3u8
+#EXTINF:-1 group-title="s",524
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://216.106.179.7:8080/ESPN4HD/index.m3u8
+#EXTINF:-1 group-title="s",525
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://216.106.179.7:8080/ESPN5HD/index.m3u8
+#EXTINF:-1 group-title="s",526
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://216.106.179.7:8080/ESPN6HD/index.m3u8
+#EXTINF:-1 group-title="s",527
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://154.12.107.98:8000/play/a08s
+#EXTINF:-1 group-title="s",528
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://154.12.107.98:8000/play/a08t
+#EXTINF:-1 group-title="s",529
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://154.12.107.98:8000/play/a09x
+#EXTINF:-1 group-title="s",530
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://154.12.107.98:8000/play/a0a0
+#EXTINF:-1 group-title="s",531
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0hk
+#EXTINF:-1 group-title="s",532
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0hf
+#EXTINF:-1 group-title="s",533
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0l2
+#EXTINF:-1 group-title="s",534
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0gc
+#EXTINF:-1 group-title="s",535
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0kv
+#EXTINF:-1 group-title="s",536
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0kp
+#EXTINF:-1 group-title="s",537
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0g4
+#EXTINF:-1 group-title="s",538
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0ho
+#EXTINF:-1 group-title="s",539
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://179.1.146.22:8000/play/a0sb
+#EXTINF:-1 group-title="s",Eurosport 4k CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/esp_4k_atk/playlist.m3u8
+#EXTINF:-1 group-title="s",Eurosport 1 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1 group-title="s",Eurosport 2 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/esp2_hun/index.m3u8
+#EXTINF:-1 group-title="s",Eurosport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.15.30/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1 group-title="s",Eurosport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.15.30/live/test_esp2_hevc_tizen/playlist.m3u8
+#EXTINF:-1 group-title="s",Sport 1 CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/sport1_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="s",Sport 2 CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/sport2_cz_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="s",Sport 1 SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_sport1_25p/playlist.m3u8
+#EXTINF:-1 group-title="s",Sport 2 SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_sport_2/playlist.m3u8
+#EXTINF:-1 group-title="s",Sport 1 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/sport1_hun/index.m3u8
+#EXTINF:-1 group-title="s",Sport 2 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/sport2_hun/index.m3u8
+#EXTINF:-1 group-title="Generale",551
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay4/hls/raiplay4_2400/chunklist.m3u8
+#EXTINF:-1 group-title="Generale",552
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay5/hls/raiplay5_2400/chunklist.m3u8
+#EXTINF:-1 group-title="Generale",553
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://streamcdng12-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/raiplay6/hls/raiplay6_2400/chunklist.m3u8
+#EXTINF:-1 group-title="Generale",554
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://38.191.80.20:8023/play/a00w
+#EXTINF:-1 group-title="Generale",555
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://38.191.80.20:8023/play/a035
+#EXTINF:-1 group-title="Generale",556
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://38.191.80.20:8023/play/a010
+#EXTINF:-1 group-title="Generale",557
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://38.191.80.20:8023/play/a01b
+#EXTINF:-1 group-title="Generale",558
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://38.191.80.20:8023/play/a014
+#EXTINF:-1 group-title="Generale",559
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://38.191.80.20:8023/play/a011
+#EXTINF:-1 group-title="Generale",560
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://38.191.80.20:8023/play/a015
+#EXTINF:-1 group-title="Generale",561
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a03z/index.m3u8
+#EXTINF:-1 group-title="Generale",562
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.228.163.146:8000/play/a048/index.m3u8
+#EXTINF:-1 group-title="Generale",563
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://190.60.37.118:4000/play/a087
+#EXTINF:-1 group-title="Generale",564
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://190.60.37.118:4000/play/a0bj
+#EXTINF:-1 group-title="Generale",565
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://190.60.37.118:4000/play/a0bv
+#EXTINF:-1 group-title="Generale",566
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://190.60.37.118:4000/play/a0bp
+#EXTINF:-1 group-title="Generale",567
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://190.60.37.118:4000/play/a09j
+#EXTINF:-1 group-title="Generale",568
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://190.60.37.118:4000/play/a0c8
+#EXTINF:-1 group-title="Generale",569
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://190.60.37.118:4000/play/a0c9
+#EXTINF:-1 group-title="Generale",570
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/plu-63a0e33a45264d000850ed7e.m3u8
+#EXTINF:-1 group-title="s",571
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/ESPN-CO/mpegts
+#EXTINF:-1 group-title="s",572
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/ESPN-2/mpegts
+#EXTINF:-1 group-title="s",573
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/ESPN-3/mpegts
+#EXTINF:-1 group-title="s",574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/ESPN-4/mpegts
+#EXTINF:-1 group-title="s",575
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/ESPN-5/mpegts
+#EXTINF:-1 group-title="s",576
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/ESPN-6/mpegts
+#EXTINF:-1 group-title="s",577
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://138.121.15.230:9001/ESPN-7/mpegts
+#EXTINF:-1 group-title="s",578
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://donetex.com/test/test/49
+#EXTINF:-1 group-title="s",579
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://donetex.com/test/test/29
+#EXTINF:-1 group-title="s",580
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://test16.mdn.ors.at/orf/orfs/qxb/manifest.m3u8
+#EXTINF:-1 group-title="Generale",581
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a0b1/index.m3u8
+#EXTINF:-1 group-title="Generale",582
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a0b2/index.m3u8
+#EXTINF:-1 group-title="Generale",583
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a0b3/index.m3u8
+#EXTINF:-1 group-title="Generale",584
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a09b/index.m3u8
+#EXTINF:-1 group-title="Generale",585
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a08n/index.m3u8
+#EXTINF:-1 group-title="Generale",586
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Generale",587
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a08o/index.m3u8
+#EXTINF:-1 group-title="Generale",588
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a08z/index.m3u8
+#EXTINF:-1 group-title="Generale",589
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://181.78.8.199:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Generale",590
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://legaseriea-live-prd.cdn.netrw.it/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/index%2Em3u8
+#EXTINF:-1 group-title="Generale",591
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/milan/index.m3u8
+#EXTINF:-1 group-title="Generale",592
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/inter/index.m3u8
+#EXTINF:-1 group-title="Generale",593
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/cacciapesca/index.m3u8
+#EXTINF:-1 group-title="Generale",594
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/pescacaccia/index.m3u8
+#EXTINF:-1 group-title="Generale",595
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/nick/index.m3u8
+#EXTINF:-1 group-title="Generale",596
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.15.30/live/real_madrid_tv/index.m3u8
+#EXTINF:-1 group-title="Generale",597
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/19148/mpegts
+#EXTINF:-1 group-title="Generale",598
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1421.ts
+#EXTINF:-1 group-title="Generale",599
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://mana.etnoselo.tv:80/YP2We8qxWu/56EeSXW2VF/1425.ts
+#EXTINF:-1 group-title="test",600
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://donetex.com:80/test/test/49
+#EXTINF:-1 group-title="CZ",ČT1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",ČT2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ct2_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",ČT24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ct24_hevc/playlist.m3u8
+#EXTINF:-1 group-title="CZ",ČTSport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",ČTArt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/ct_art_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",A11 CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_regionalni_tv/playlist.m3u8
+#EXTINF:-1 group-title="CZ",Nova CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="CZ",Prima CZ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/prima_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",Prima Cool
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/prima_cool_avc_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",Kanal 1 SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_upnetwork/playlist.m3u8
+#EXTINF:-1 group-title="SK",STVR 1 Jednotka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_jednotka_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",STVR 2 Dvojka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",STVR 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_trojka_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",Markíza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_markiza_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",TA3 SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_ta3_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",JOJ SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_joj_25p/playlist.m3u8
+#EXTINF:-1 group-title="SK",Barrandov SK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_barrandov/playlist.m3u8
+#EXTINF:-1 group-title="SK",Barrandov Krimi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_barrandov_plus_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="SK",TV Bratislava
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_batv/playlist.m3u8
+#EXTINF:-1 group-title="HU",M4 Sport HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/uatlmvixrr/index.m3u8
+#EXTINF:-1 group-title="HU",M1 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_m_1_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="HU",M2 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/m2_hun/index.m3u8
+#EXTINF:-1 group-title="HU",Duna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/duna_hun/index.m3u8
+#EXTINF:-1 group-title="HU",Duna World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/duna_world_hun/index.m3u8
+#EXTINF:-1 group-title="HU",M5 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_m_5_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="HU",TV2 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_tv_2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="HU",TV2 Super
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_super_tv2_hungary_1200_atk/playlist.m3u8
+#EXTINF:-1 group-title="HU",TV2 Comedy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/tv2_comedy/index.m3u8
+#EXTINF:-1 group-title="HU",TV2 Kids
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/tv2_kids/index.m3u8
+#EXTINF:-1 group-title="HU",TV4 HU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_tv_4_hun_atk_1200/playlist.m3u8
+#EXTINF:-1 group-title="World",UA Pershyi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://api-tv.ipnet.ua/api/v1/manifest/2118742505.m3u8
+#EXTINF:-1 group-title="World",UA Kultura
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/435/index.m3u8
+#EXTINF:-1 group-title="World",UA Kyiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/439/index.m3u8
+#EXTINF:-1 group-title="World",UA Krym
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/436/index.m3u8
+#EXTINF:-1 group-title="World",UA Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/444/index.m3u8
+#EXTINF:-1 group-title="World",UA 1+1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/219/index.m3u8
+#EXTINF:-1 group-title="World",UA 2+2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/173/index.m3u8
+#EXTINF:-1 group-title="World",LT LRT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/31/index.m3u8
+#EXTINF:-1 group-title="World",LV LTV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/34/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 09
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/20/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 11
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/293/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 12
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 13
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/295/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/454/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/45/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ch16israel-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 group-title="World",ISR CH 23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/378/index.m3u8
+#EXTINF:-1 group-title="World",ISR CH 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/42/index.m3u8
+#EXTINF:-1 group-title="World",ISR ZOOM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/377/index.m3u8
+#EXTINF:-1 group-title="World",ISR MAKAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="World",Armenia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amtv.tulixcdn.com/amtv2/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="World",Armenia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amtv.tulixcdn.com/amtv3/am3abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="World",Armenia 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://amtvusdvr.tulix.tv/am4abr/index.m3u8
+#EXTINF:-1 group-title="World",Georgia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tv.cdn.xsg.ge/gpb-1tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Georgia 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tv.cdn.xsg.ge/gpb-2tv/playlist.m3u8
+#EXTINF:-1 group-title="World",Syri TV Albania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 group-title="World",News 24 Albania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 group-title="World",Ora News Albania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 group-title="World",CNA TV Albania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 group-title="World",Scan Tv Albania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://scantvstream.pdf-to-img.com/Digitalb/Admin01/Admin01/playlist.m3u8
+#EXTINF:-1 group-title="World",ONE Malta
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/master.m3u8
+#EXTINF:-1 group-title="World",2M Monde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 group-title="World",2M Maroc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.9.2.18/chid_218/index.m3u8
+#EXTINF:-1 group-title="World",TV2 Algeria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.9.2.18/chid_347/index.m3u8
+#EXTINF:-1 group-title="World",_
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_1080.m3u8
+#EXTINF:-1 group-title="Music",4ever Music
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/257/index.m3u8
+#EXTINF:-1 group-title="Music",Trace Urban
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Music",Stars TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.179:8080/stars-tv/index.m3u8
+#EXTINF:-1 group-title="Music",Bridge Classic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/272/index.m3u8
+#EXTINF:-1 group-title="Music",FON Music RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://stream.mcquack.net/317/index.m3u8
+#EXTINF:-1 group-title="RU",01 ПЕРВЫЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a001
+#EXTINF:-1 group-title="RU",02 РОССИЯ-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a002
+#EXTINF:-1 group-title="RU",03 МАТЧ!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a003
+#EXTINF:-1 group-title="RU",04 НТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a004
+#EXTINF:-1 group-title="RU",05 ПЯТЫЙ КАНАЛ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a005
+#EXTINF:-1 group-title="RU",06 РОССИЯ-К
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a006
+#EXTINF:-1 group-title="RU",07 РОССИЯ-24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a007
+#EXTINF:-1 group-title="RU",08 КАРУСЕЛЬ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a008
+#EXTINF:-1 group-title="RU",09 ОТР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a009
+#EXTINF:-1 group-title="RU",10 ТВ Центр
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a010
+#EXTINF:-1 group-title="RU",11 РЕН ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a011
+#EXTINF:-1 group-title="RU",12 Спас
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a012
+#EXTINF:-1 group-title="RU",13 СТС
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a013
+#EXTINF:-1 group-title="RU",14 Домашний
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a014
+#EXTINF:-1 group-title="RU",15 ТВ3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a015
+#EXTINF:-1 group-title="RU",16 Пятница
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a016
+#EXTINF:-1 group-title="RU",17 Звезда
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a017
+#EXTINF:-1 group-title="RU",18 МИР
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a018
+#EXTINF:-1 group-title="RU",19 ТНТ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a019
+#EXTINF:-1 group-title="RU",20 МУЗ ТВ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a020
+#EXTINF:-1 group-title="RU",TVRTS RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.47.155.244:8001/play/a022
+#EXTINF:-1 group-title="RU",CTV7 RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ctv7.ru/live/1.m3u8
+#EXTINF:-1 group-title="RU",8TV RU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://v4.proofix.ru/8tv-russia/index.m3u8
+#EXTINF:-1 group-title="RU",RT EN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rt-fra.rttv.com/live/rtnews/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT FR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rt-fra.rttv.com/live/rtfrance/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rt-fra.rttv.com/live/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rt-fra.rttv.com/live/rtdeutsch/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT AR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rt-fra.rttv.com/live/rtarab/playlist.m3u8
+#EXTINF:-1 group-title="RU",RT Doc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://rt-fra.rttv.com/live/rtdoc/playlist.m3u8
+#EXTINF:-1 group-title="RU",Shanson TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://91.205.196.7:8000/play/a01w
+#EXTINF:-1 group-title="test",701
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/2/index.m3u8
+#EXTINF:-1 group-title="test",702
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/10/index.m3u8
+#EXTINF:-1 group-title="test",703
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/18/index.m3u8
+#EXTINF:-1 group-title="test",704
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/22/index.m3u8
+#EXTINF:-1 group-title="test",705
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/26/index.m3u8
+#EXTINF:-1 group-title="test",706
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://109.169.87.42:8080/stream/30/index.m3u8
+#EXTINF:-1 group-title="test",707
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F128126488561be9a87267f
+#EXTINF:-1 group-title="test",708
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.227.34.62:80/stream/2/index.ts
+#EXTINF:-1 group-title="test",709
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266434
+#EXTINF:-1 group-title="test",710
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F2343767125eb4977361e91
+#EXTINF:-1 group-title="test",711
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://atakannn19833.lxi.be/vaybe.php?url=https%3A%2F%2Fvavoo.to%2Fvavoo-iptv%2Fplay%2F32202484989ac14421915
+#EXTINF:-1 group-title="test",712
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://198.204.228.26/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="test",713
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://198.204.228.26/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="test",714
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://198.204.228.26/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="test",715
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://95.141.36.9:8080/stream/172/index.m3u8
+#EXTINF:-1 group-title="test",716
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://198.204.228.26/live/cctv16hd.m3u8
+#EXTINF:-1 group-title="test",717
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://198.204.228.26/live/cctv17hd.m3u8
+#EXTINF:-1 group-title="test",718
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport1-sk/live_fullhd
+#EXTINF:-1 group-title="test",719
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-sk-sport2-sk/live_fullhd
+#EXTINF:-1 group-title="test",720
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://rpprod.hbbtv.cdn.cra.cz:8080/hbbTV/cme-ro-protv/live_fullhd
+#EXTINF:-1 group-title="test",721
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-IT1000002TG
+#EXTINF:-1 group-title="test",722
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-IT800003V4
+#EXTINF:-1 group-title="test",723
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-IT500010AQ
+#EXTINF:-1 group-title="test",724
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-ITBA2200008IM
+#EXTINF:-1 group-title="test",725
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-ITBC2100001G9
+#EXTINF:-1 group-title="test",726
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-ITBD1500002NL
+#EXTINF:-1 group-title="test",727
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/stvp-IT2900003UK
+#EXTINF:-1 group-title="test",728
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://jmp2.uk/plu-62bc1f502b70e3000706298e.m3u8
+#EXTINF:-1 group-title="test",729
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/la5/index.m3u8
+#EXTINF:-1 group-title="test",730
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/discovery/index.m3u8
+#EXTINF:-1 group-title="test",731
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/realtime/index.m3u8
+#EXTINF:-1 group-title="test",732
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/dmax/index.m3u8
+#EXTINF:-1 group-title="test",733
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/giallo/index.m3u8
+#EXTINF:-1 group-title="test",734
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/rai4/index.m3u8
+#EXTINF:-1 group-title="test",735
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/rai5/index.m3u8
+#EXTINF:-1 group-title="test",736
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://102.129.186.182:81/raimovie/index.m3u8
+#EXTINF:-1 group-title="test",737
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1 group-title="test",738
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://88.212.7.14/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1 group-title="test",739
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIStoria/Live.m3u8
+#EXTINF:-1 group-title="test",740
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://d3k8wzt41aflvx.cloudfront.net/RAIScuola/Live.m3u8
+#EXTINF:-1 group-title="RO",TVR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-info.lg.mncdn.com/tvrinfo/smil:tvrinfo.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-international.lg.mncdn.com/tvrinternational/smil:tvrinternational.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Sport
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Cultural
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-cultural.lg.mncdn.com/tvrcultural/smil:tvrcultural.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Folclor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-folclor.lg.mncdn.com/tvrfolclor/smil:tvrfolclor.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Moldova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist.m3u8
+#EXTINF:-1 group-title="RO",TVR Cluj
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-cluj.lg.mncdn.com/tvrcluj/smil:tvrcluj.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Craiova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-craiova.lg.mncdn.com/tvrcraiova/smil:tvrcraiova.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Iasi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-iasi.lg.mncdn.com/tvriasi/smil:tvriasi.smil/chunklist.m3u8
+#EXTINF:-1 group-title="RO",TVR Timisoara
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-timisoara.lg.mncdn.com/tvrtimisoara/smil:tvrtimisoara.smil/playlist.m3u8
+#EXTINF:-1 group-title="RO",TVR Targu Mures
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
+#EXTINF:-1 group-title="test",ERT1 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERT1/default/index.m3u8
+#EXTINF:-1 group-title="Generale",756
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1 group-title="Generale",757
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cstar-dm.m3u8
+#EXTINF:-1 group-title="Generale",758
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/canalplus/cnews-dm.m3u8
+#EXTINF:-1 group-title="Generale",759
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://62.129.183.89:9981/stream/channelid/1730829047?ticket=2C397F8029AA4497E2DDE2E4024903519D21B726&profile=pass
+#EXTINF:-1 group-title="Generale",760
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/32206/mpegts
+#EXTINF:-1 group-title="Generale",761
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31826/mpegts
+#EXTINF:-1 group-title="Generale",762
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31829/mpegts
+#EXTINF:-1 group-title="Generale",763
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31825/mpegts
+#EXTINF:-1 group-title="Generale",764
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31827/mpegts
+#EXTINF:-1 group-title="Generale",765
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31828/mpegts
+#EXTINF:-1 group-title="Generale",766
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31833/mpegts
+#EXTINF:-1 group-title="Generale",767
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://forever.megogo.xyz/iptv/L6YBBF7V7QREKC/31837/mpegts
+#EXTINF:-1 group-title="Generale",768
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://185.129.1.242:80/aztv/mpegts
+#EXTINF:-1 group-title="Generale",769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+#EXTINF:-1 group-title="Generale",770
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+#EXTINF:-1 group-title="Generale",771
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
+#EXTINF:-1 group-title="Generale",772
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-edge.rtl.lu/channel2/smil:channel2/playlist.m3u8
+#EXTINF:-1 group-title="Generale",773
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live-edge.rtl.lu/rtlgold/smil:rtlgold/playlist.m3u8
+#EXTINF:-1 group-title="Generale",774
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://live.jefimija.eu/hls/stream_src/index.m3u8
+#EXTINF:-1 group-title="Generale",775
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ch21napoli-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Generale",776
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ch21extra-cdn.encoders.immergo.tv/1/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Generale",777
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream.ets-sistemi.it:2020/barinews111/barinews111.m3u8
+#EXTINF:-1 group-title="Generale",778
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://stream7.xdevel.com/video0s975942-893/stream/playlist.m3u8
+#EXTINF:-1 group-title="Generale",779
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
+#EXTINF:-1 group-title="Generale",780
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://ponte.teletrullo.tv/hls/ttsito/1_2/index.m3u8
+#EXTINF:-1 group-title="Rai",Rai 1 dvr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 2 dvr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 3 dvr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 4 dvr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai 5 dvr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="Rai",Rai Movie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 group-title="test",Canale 5 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266385
+#EXTINF:-1 group-title="test",Italia 1 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266385
+#EXTINF:-1 group-title="test",NOVE test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://wp8-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09472/stb-dash-fhd-avc/SV09472.mpd
+#EXTINF:-1 group-title="test",TV8 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://wp5-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09318/stb-dash-fhd-avc/SV09318.mpd?clearkeyPlayer.audioLanguage=it
+#EXTINF:-1 group-title="test",RSI La 1 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://wp3-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09042/stb-dash-fhd-avc/SV09042.mpd?clearkeyPlayer.audioLanguage=it
+#EXTINF:-1 group-title="test",RSI La 2 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09043/stb-dash-fhd-avc/SV09043.mpd?clearkeyPlayer.audioLanguage=it
+#EXTINF:-1 group-title="test",Channel4 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(c4)/manifest.mpd
+#EXTINF:-1 group-title="test",4Seven test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
+#EXTINF:-1 group-title="test",Film4 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
+#EXTINF:-1 group-title="test",More4 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
+#EXTINF:-1 group-title="test",E4 test
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(e4)/manifest.mpd
+#EXTINF:-1 group-title="test",798
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+http://nocable.cc:8080/88064703/88064703/266434
+#EXTINF:-1 group-title="test",799
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://www.mytivu.it/Application/Channels/Euronews.php/index.m3u8
+#EXTINF:-1 group-title="test",800
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hls-shansontv.cdnvideo.ru/shansontv/shansontv-sd.smil/0864eaf681b5b554dd4814d8ad919378--shansontv--shansontv.sdp--tracks-v1a1--mono.m3u8?hls_proxy_host=57d85db82b1307a23c407e73975202c1
